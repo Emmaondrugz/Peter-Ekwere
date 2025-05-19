@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+nextjs-portal {
+  display: none !important;
+}
+
+
+body {
+  font-family: "Mona Sans", sans-serif;
+  font-weight: 400;
+  color: black !important;
+}
+
+.play{
+  font-family: "Play", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+

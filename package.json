@@ -1,0 +1,28 @@
+{
+  "name": "next-template",
+  "version": "1.0.0",
+  "description": "A template for Next.js projects with Tailwind CSS and ESLint",
+  "author": "Ekwere Emmanuel",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-simple-typewriter": "^5.0.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^4"
+  }
+}
