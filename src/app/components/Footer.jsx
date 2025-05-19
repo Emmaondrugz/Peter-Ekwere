@@ -8,7 +8,7 @@ export default function Footer() {
             {/* footer */}
             <div className="flex flex-col h-[400px] items-center justify-center">
                 <div>
-                    <img src="logo.jpg" alt="" className="w-16"/>
+                    <img src="Logo.jpg" alt="" className="w-16"/>
                 </div>
                     {/* socials */}
                     <div className="mt-10 flex gap-5 sm:w-fit mx-auto lg:mx-0">
